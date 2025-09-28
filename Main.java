@@ -7,5 +7,9 @@ public class Main {
 
         Person teacher = new Person("Ekaterina", 25);
         System.out.println(teacher);
+
+        Grade grade=new Grade();
+        grade.setGrade(10);
+        System.out.println("Оценка: "+ grade.getGrade());
     }
 }
