@@ -6,7 +6,7 @@ public class Main {
         System.out.println(student);
   Person teacher2 = new Person("Varvara", 20);
         System.out.println(teacher2);
-        Person teacher = new Person("Ekaterina", 25);
+        Person teacher = new Person("Ekaaaaaaaaaaaaaterina", 25);
         System.out.println(teacher);
 
         Grade grade=new Grade();
