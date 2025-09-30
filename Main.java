@@ -5,7 +5,7 @@ public class Main {
         Person student = new Person("Maria", 20);
         System.out.println(student);
   
-        Person teacher = new Person("Ekaaaaaaaaaaaaaterina", 25);
+        Person teacher = new Person("EkAAAAAaaaaaaaaaaaaaterina", 25);
         System.out.println(teacher);
 
         Grade grade=new Grade();
