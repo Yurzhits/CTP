@@ -4,7 +4,8 @@ public class Main {
 
         Person student = new Person("Maria", 20);
         System.out.println(student);
-
+  Person teacher2 = new Person("Varvara", 20);
+        System.out.println(teacher2);
         Person teacher = new Person("Ekaterina", 25);
         System.out.println(teacher);
 
